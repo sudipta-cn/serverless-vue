@@ -67,7 +67,7 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 header{
-  padding: 50px; box-sizing: border-box; background: #6161f3; color: white;
+  padding: 50px; box-sizing: border-box; background: #FF0000; color: white;
 }
 .form{
   margin: 30px 0;
